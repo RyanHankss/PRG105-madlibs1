@@ -1,13 +1,13 @@
 #variables
 
-animal = "Hammerhead shark"
-place = "house"
-title = "Duke"
-pronoun = "we"
-verb1 = "Dance"
-verb2 = "Fighting"
-food = "egg rolls"
-command = "Begin"
+animal = raw_input("Enter an animal\n")
+place = raw_input("Enter a place\n")
+title = raw_input("Enter a title\n")
+pronoun = raw_input("Enter a pronoun\n")
+verb1 = raw_input("Enter a verb\n")
+verb2 = raw_input("Enter another verb\n")
+food = raw_input("Enter a type of food\n")
+command = raw_input("Enter a command\n")
 
 
 #poem Kookaburra Nursery Rhyme
